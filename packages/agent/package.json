@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@foxpilot/core": "workspace:*",
-    "@huggingface/transformers": "^4.3.0"
+    "@huggingface/transformers": "^4.3.2"
   }
 }
