@@ -38,8 +38,8 @@ The add-on asks for no other permissions.
 
 ## Contact
 
-Open an issue at https://github.com/pooriaarab/foxpilot/issues.
+Open an issue at https://github.com/itsryanarmani/foxpilot/issues.
 
 ## Changes
 
-A change to this policy ships in a new version of the add-on. The history of this file is at https://github.com/pooriaarab/foxpilot/commits/main/apps/consent-shield/listing/privacy.md.
+A change to this policy ships in a new version of the add-on. The history of this file is at https://github.com/itsryanarmani/foxpilot/commits/main/apps/consent-shield/listing/privacy.md.

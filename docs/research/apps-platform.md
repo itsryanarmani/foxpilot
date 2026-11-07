@@ -1,6 +1,6 @@
 # foxpilot as an app platform: plan
 
-Goal: publish 5–10 Firefox add-ons from `pooriaarab/foxpilot`. Each add-on is an app in `apps/<name>/`. All apps share one model runtime, one page kit and one safety layer. Repo state read: main `69deb2d` (2026-10-08). This plan changes no code.
+Goal: publish 5–10 Firefox add-ons from `itsryanarmani/foxpilot`. Each add-on is an app in `apps/<name>/`. All apps share one model runtime, one page kit and one safety layer. Repo state read: main `69deb2d` (2026-10-08). This plan changes no code.
 
 ## 0. Facts that shape the design
 
