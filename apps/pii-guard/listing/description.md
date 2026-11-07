@@ -39,4 +39,4 @@ The model is trained for short English text, so other languages get fewer marks.
 
 PII Guard can miss personal data. Read your message before you send it. The popup has no settings yet.
 
-PII Guard is open source under the MIT license. The source, the build steps and the test suite are at https://github.com/pooriaarab/foxpilot/tree/main/apps/pii-guard
+PII Guard is open source under the MIT license. The source, the build steps and the test suite are at https://github.com/itsryanarmani/foxpilot/tree/main/apps/pii-guard

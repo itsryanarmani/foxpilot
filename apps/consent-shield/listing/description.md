@@ -28,4 +28,4 @@ Limits:
 - it presses buttons with events from a script, and some sites ignore those
 - it refuses what the dialog offers, but it does not delete cookies that a site sets before you answer
 
-Consent Shield is open source under the MIT license. The source, the build steps and the test pages are at https://github.com/pooriaarab/foxpilot/tree/main/apps/consent-shield
+Consent Shield is open source under the MIT license. The source, the build steps and the test pages are at https://github.com/itsryanarmani/foxpilot/tree/main/apps/consent-shield
